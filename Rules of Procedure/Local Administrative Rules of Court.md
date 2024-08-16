@@ -14,7 +14,7 @@ Where a witness makes a solemn affirmation, his evidence shall be taken and have
 
 ### Court Policy 2024-03 
 
-The Appellate Division shall hear cases under its jurisdiction in panels of seven, five, or three judges, whichever largest is possible, comprised of the Lord Chief Justice and other judges who shall not have been the trial judge. Once a panel is formed, the panel may vote, by a simple majority, to hear or not hear such a case. All decisions reached regarding the case must be agreed upon by at least a majority of panel judges. The panel shall be dissolved once all matters have finally been disposed of.
+The Appellate Division shall hear cases under its jurisdiction in panels of seven, five, or three judges, whichever largest is possible, comprised of the Chief Justice and other judges who shall not have been the trial judge. Once a panel is formed, the panel may vote, by a simple majority, to hear or not hear such a case. All decisions reached regarding the case must be agreed upon by at least a majority of panel judges. The panel shall be dissolved once all matters have finally been disposed of.
 
 ### Court Policy 2024-04
 
@@ -49,11 +49,11 @@ Except when an exception is allowed with good reason or by other means or leave,
 
 Masters are responsible for judicial, quasi-judicial and judicial administration matters; liaison with court administrators, members of the Bar and public; and procedural direction to Court registry staff. 
 
-Masters are appointed by the Lord Chief Judge and subject to dismissal at the discretion of the court.
+Masters are appointed by the Chief Judge and subject to dismissal at the discretion of the court.
 
-Unless appointed as a judge, masters are subject to the limitations set out in this policy and those given by the Lord Chief Judge. 
+Unless appointed as a judge, masters are subject to the limitations set out in this policy and those given by the Chief Judge. 
 
-A Master has the same jurisdiction under any enactment or the Rules of Court as a Judge of the Court sitting in Chambers if, in respect of any matter, the Lord Chief Judge has given a direction that a Master shall exercise that jurisdiction. 
+A Master has the same jurisdiction under any enactment or the Rules of Court as a Judge of the Court sitting in Chambers if, in respect of any matter, the Chief Judge has given a direction that a Master shall exercise that jurisdiction. 
 
 A Master has the same jurisdiction under any enactment or the Rules of Court as a Judge of the Court sitting in Chambers if, in respect of any judicial hearings in Chambers relating to interlocutory and interim applications made in a proceeding in the court, a Judge presiding has given a direction that a Master shall exercise that jurisdiction. 
 
