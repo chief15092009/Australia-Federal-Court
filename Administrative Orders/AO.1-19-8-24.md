@@ -2,7 +2,7 @@
 
 **Vancouver, B.C.**
 
-**Honourable Cheif15092009, Presiding.**
+**Honourable Cheif15092009, Associate Chief Judge.**
 
 **Courtroom Staff**
 ```
