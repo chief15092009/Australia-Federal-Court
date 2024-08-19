@@ -3,6 +3,9 @@
 **Vancouver, B.C.**
 
 **Honourable Cheif15092009, Associate Chief Judge.**
+<br> *Acting in the capacity of the Chief Judge.*
+
+<br>
 
 **Order 1 - Suspension of Quorum Requisites:** Unless otherwise ordered herein, the following rules of the court are suspended, as listed in Schedule A.
 
