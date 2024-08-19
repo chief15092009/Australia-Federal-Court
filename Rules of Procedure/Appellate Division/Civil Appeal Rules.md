@@ -1,4 +1,5 @@
-# CIVIL APPEAL RULES
+# CIVIL APPEAL RULES in the Provincial Court of British Columbia
+
 ---
 
 ## Part 1 - Interpertation
@@ -7,13 +8,13 @@
 
 **Rule 1.1 -** In these rules:
 - **"appellant"** means the person bringing the appeal;
-- **"bring an appeal"** means to appeal an order, a judgement, or a decree in a civil matter from the Federal Court of Australia Trial Division to this court on appellate jurisdiction;
-- **"court"** means the Federal Court of Australia Appellate Division;
+- **"bring an appeal"** means to appeal an order, a judgement, or a decree in a civil matter from the Provincial Court of British Columbia Trial Division to this court on appellate jurisdiction;
+- **"court"** means the Provincial Court of British Columbia Appellate Division;
 - **"document"** means a photograph, video, recording of sound, any files, and any information recorded or stored by means of any device;
 - **"file"** means file with the registry of the court;
 - **"panel judge"** means a judge sitting in the capacity of the Appellate Division;
-- **"panel"** means a panel of three or more justices of the Federal Court of Australia;
-- **"order"** includes an order, a judgment, a decree, and an opinion, advice, direction, determination, decision or declaration that the Federal Court of Australia is authorized to give or make;
+- **"panel"** means a panel of three or more judges of the Provincial Court of British Columbia;
+- **"order"** includes an order, a judgment, a decree, and an opinion, advice, direction, determination, decision or declaration that the Provincial Court of British Columbia is authorized to give or make;
 - **"party"**, in relation to a proceeding, means the person initiating the proceeding and each respondent who has filed a Notice of Appearance in the proceeding;
 - **"proceeding"** means an application for leave to appeal, an appeal, or a cross appeal;
 - **"respondent"** means a person named as a respondent in an Application for Leave to Appeal or Notice of Appeal, as the case may be;
@@ -26,7 +27,7 @@
 ### Appellate Jurisdiction
 
 **Rule 1.3 -** An appeal lies to the court:
-- **(a)** from an order of the Federal Court of Australia or an order of a justice of that court; and
+- **(a)** from an order of the Provincial Court of British Columbia or an order of a judge of that court; and
 - **(b)** in any matter where jurisdiction is given to it under a legislative enactment.
 
 ### How Cited
@@ -37,7 +38,7 @@
 
 **Rule 1.5 -** A person preparing an Application for Leave to Appeal under Part 2, a Notice of Appeal under Part 3, or a Notice of Cross Appeal under Part 4 must name as a respondent to the proceeding every person who could be affected by the order requested.
 
-**Rule 1.6 -** If a panel justice considers that a person who was not named as a respondent in an Application for Leave to Appeal, a Notice of Appeal or a Notice of Cross Appeal could be affected by the order requested, the panel justice may order that:
+**Rule 1.6 -** If a panel judge considers that a person who was not named as a respondent in an Application for Leave to Appeal, a Notice of Appeal or a Notice of Cross Appeal could be affected by the order requested, the panel judge may order that:
 - **(a)** the person be added as a respondent to the proceeding;
 - **(b)** the Application for Leave to Appeal, Notice of Appeal or Notice of Cross Appeal be amended by adding the person as a respondent; and
 - **(c)** the Application for Leave to Appeal, Notice of Appeal or Notice of Cross Appeal be served on that respondent.
@@ -59,7 +60,7 @@
 
 ### Amendment of Application for Leave to Appeal
 
-**Rule 2.3 -** An Application for Leave to Appeal may be amended with leave of a panel justice.
+**Rule 2.3 -** An Application for Leave to Appeal may be amended with leave of a panel judge.
 
 ### Filing of Notice of Appearance by Respondent
 
@@ -71,7 +72,7 @@
 
 **Rule 2.5 -** If a respondent who has been served with an Application for Leave to Appeal fails to file a Notice of Appearance:
 - **(a)** the respondent is presumed to take no position on the application; and
-- **(b)** unless a panel justice otherwise orders, no party to the application has any obligation to serve on the respondent any further documents related to the application.
+- **(b)** unless a panel judge otherwise orders, no party to the application has any obligation to serve on the respondent any further documents related to the application.
 
 ### Reply to Application for Leave to Appeal by Respondent
 
@@ -90,7 +91,7 @@
 
 ### Service if Application for Leave to Appeal is Granted
 
-**Rule 2.9 -** Unless a panel justice otherwise orders, if an Application for Leave to Appeal is granted, the appellant must, if one or more of the respondents failed to file a Notice of Appearance in accordance with Rule 2.5, serve one copy of the order granting leave to appeal on each of the respondents who had failed to file a Notice of Appearance in accordance with Rule 2.5.
+**Rule 2.9 -** Unless a panel judge otherwise orders, if an Application for Leave to Appeal is granted, the appellant must, if one or more of the respondents failed to file a Notice of Appearance in accordance with Rule 2.5, serve one copy of the order granting leave to appeal on each of the respondents who had failed to file a Notice of Appearance in accordance with Rule 2.5.
 
 **Rule 2.10 -** Within 48 after being served under Rule 2.9 with the order granting leave, a respondent must:
 - **(a)** file a Notice of Appearance in Form 2; and
@@ -98,7 +99,7 @@
 
 **Rule 2.11 -** If a respondent who has been served under Rule 2.9 fails to file a Notice of Appearance:
 - **(a)** the respondent is presumed to take no position on the application; and
-- **(b)** unless a panel justice otherwise orders, no party to the appeal has any obligation to serve on the respondent any further documents related to the appeal.
+- **(b)** unless a panel judge otherwise orders, no party to the appeal has any obligation to serve on the respondent any further documents related to the appeal.
 
 ## Part 3 - Notices of Appeal
 
@@ -107,7 +108,7 @@
 **Rule 3.1 -** An appeal of the following orders shall not require leave:
 - an order granting or denying relief in a civil matter where such relief is $1000 or more or includes injunctive relief;
 - an order dismissing a civil action; 
-- an order denying an application to disqualify the justice;
+- an order denying an application to disqualify the judge;
 - any order of a commission, board, panel, or other tribunal under a legislative enactment where such an order is to be treated as though the body which issued it was an inferior court; and
 - any other order, judgement, or decree issued in a civil matter not listed in Rule 2.1.
 
@@ -150,7 +151,7 @@
 
 ### Amendment of Notice of Cross Appeal
 
-**Rule 4.3 -** A Notice of Cross Appeal may be amended with leave of a panel justice.
+**Rule 4.3 -** A Notice of Cross Appeal may be amended with leave of a panel judge.
 
 ### Filing of Notice of Appearance by Respondent
 
@@ -162,7 +163,7 @@
 
 **Rule 4.5 -** If a person who is required under Rule 4.4 to file a Notice of Appearance fails to do so:
 - **(a)** the person is presumed to take no position on the cross appeal; and
-- **(b)** unless a panel justice otherwise orders, no party to the appeal has any obligation to serve on the person any further documents related to the appeal or cross appeal.
+- **(b)** unless a panel judge otherwise orders, no party to the appeal has any obligation to serve on the person any further documents related to the appeal or cross appeal.
 
 ## Part 5 - Appeal Proceedings
 
@@ -180,21 +181,21 @@
 
 **Rule 5.3 -** The parties may exclude from the transcript any testimony that all parties agree to exclude.
 
-**Rule 5.4 -** A panel justice may exclude any testimony from the transcript.
+**Rule 5.4 -** A panel judge may exclude any testimony from the transcript.
 
 ### Factums
 
-**Rule 5.5 -** Unless a panel justice otherwise orders, the appellant must, within 5 days after filing the Appeal Record:
+**Rule 5.5 -** Unless a panel judge otherwise orders, the appellant must, within 5 days after filing the Appeal Record:
 - **(a)** file a factum in accordance with Rules 5.8 and 5.9; and
 - **(b)** serve a copy of that factum to each of the parties.
 
-**Rule 5.6 -** Unless a panel justice otherwise orders, within 5 days after being served with the appellant’s factum, a respondent must:
+**Rule 5.6 -** Unless a panel judge otherwise orders, within 5 days after being served with the appellant’s factum, a respondent must:
 - **(a)** file a factum in accordance with:
   - **(i)** Rules 5.8 and 5.9; and
   - **(ii)** if the respondent intends to cross appeal, Rules 5.10 through 5.14; and
 - **(b)** serve a copy of that factum on the other parties.
 
-**Rule 5.7 -** On the application of a party or on a panel justice’s own motion, a panel justice may order that the filing of factums by any or all parties be dispensed with.
+**Rule 5.7 -** On the application of a party or on a panel judge’s own motion, a panel judge may order that the filing of factums by any or all parties be dispensed with.
 
 ### Form and Content of Factums
 
@@ -207,13 +208,13 @@
 **Rule 5.9 -** A factum must not:
 - **(a)** contain irrelevant material;
 - **(b)** reproduce any material or matter that is contained in the Appeal Record or transcript if reference to the material or matter will reasonably suffice; or
-- **(c)** exceed 10 pages in length unless a panel justice otherwise orders.
+- **(c)** exceed 10 pages in length unless a panel judge otherwise orders.
 
 ### Factums and Replies on Cross Appeal
 
 **Rule 5.10 -** If a respondent intends to cross appeal, the respondent’s factum:
 - **(a)** must be in 2 divisions entitled, respectively, “Respondent’s Factum on Appeal” and “Respondent’s Cross Appeal Factum”; and
-- **(b)** must not exceed 15 pages in length unless a panel justice otherwise orders.
+- **(b)** must not exceed 15 pages in length unless a panel judge otherwise orders.
 
 **Rule 5.11 -** Within 5 days after being served with a factum referred to in Rule 5.10, the appellant must:
 - **(a)** prepare a factum, entitled “Appellant’s Cross Appeal Factum”, that complies with Rules 5.8 and 5.9 in answer to the Respondent’s Cross Appeal Factum;
@@ -225,7 +226,7 @@
   - **(ii)** file, in accordance with Rule 5.12, a document entitled “Appellant’s Cross Appeal Factum and Reply” consisting of the Appellant’s Cross Appeal Factum as Division 1 and the Appellant’s Reply as Division 2; and
   - **(iii)** serve a copy of the Appellant’s Cross Appeal Factum and Reply on the other parties.
 
-**Rule 5.12 -** Unless a panel justice otherwise orders, the following applies to the Appellant’s Cross Appeal Factum and Reply:
+**Rule 5.12 -** Unless a panel judge otherwise orders, the following applies to the Appellant’s Cross Appeal Factum and Reply:
 - **(a)** Division 1, the Appellant’s Cross Appeal Factum, must not exceed 10 pages in length; and
 - **(b)** Division 2, the Appellant’s Reply, must not exceed 5 pages in length.
 
@@ -248,15 +249,15 @@ respondent must, within 7 days after being served with that factum:
 
 ### Prehearing Conference
 
-**Rule 5.17 -** On the request of a party or on a panel justice’s own motion, the court or a panel justice may direct a
+**Rule 5.17 -** On the request of a party or on a panel judge’s own motion, the court or a panel judge may direct a
 prehearing conference.
 
-**Rule 5.18 -** If a direction for a prehearing conference is made under Rule 5.17, the parties or their solicitors must attend before a panel justice at the time and place directed to consider one or more of the following:
+**Rule 5.18 -** If a direction for a prehearing conference is made under Rule 5.17, the parties or their solicitors must attend before a panel judge at the time and place directed to consider one or more of the following:
 - **(a)** the simplification or isolation of issues on the appeal;
 - **(b)** the fixing of the time for the hearing of the appeal; and
 - **(c)** any other matter that might expedite the appeal.
 
-**Rule 5.19 -** The panel justice presiding at a prehearing conference may make an order or direction
+**Rule 5.19 -** The panel judge presiding at a prehearing conference may make an order or direction
 on any matter referred to in Rule 5.18 (a) to (c).
 
 ### Points of Law and Authorities Not Cited in Factum
@@ -265,13 +266,13 @@ on any matter referred to in Rule 5.18 (a) to (c).
 
 ### Further Evdence
 
-**Rule 5.21 -** With leave of a panel justice, a party may adduce evidence that was not before the court appealed from.
+**Rule 5.21 -** With leave of a panel judge, a party may adduce evidence that was not before the court appealed from.
 
 **Rule 5.22 -** If the court is to consider evidence that was not before the court appealed from, the party referred to in Rule 5.21 must serve on the other parties the evidence referred to in Rule 5.21 at least 48 hours before the hearing.
 
 ## Part 6 - Applications
 
-### Requirements for Applications to a Panel justice
+### Requirements for Applications to a Panel Judge
 
 **Rule 6.1 -** A party wishing to bring an application must:
 - **(a)** file an Application in Form 9; and
@@ -285,15 +286,15 @@ on any matter referred to in Rule 5.18 (a) to (c).
 
 ### Applications for Intervenor Status
 
-**Rule 6.3 -** Any person interested in an appeal may apply to a panel justice for leave to intervene
-on any terms and conditions that the panel justice may determine.
+**Rule 6.3 -** Any person interested in an appeal may apply to a panel judge for leave to intervene
+on any terms and conditions that the panel judge may determine.
 - **(a)** file an Application in Form 9; and
 - **(b)** serve that Application on the other parties.
 
-**Rule 6.4 -** In any order granting leave to intervene, the panel justice:
+**Rule 6.4 -** In any order granting leave to intervene, the panel judge:
 - **(a)** is to specify the date by which the Form 7 factum of the intervenor must be filed.
 
-**Rule 6.5 -** Unless a panel justice otherwise orders, an intervenor:
+**Rule 6.5 -** Unless a panel judge otherwise orders, an intervenor:
 - **(a)** must not file a factum that exceeds 15 pages;
 - **(b)** must include in the factum only those submissions that pertain to the facts and issues included in the factums of the parties; and
 - **(c)** is not to present oral argument.
@@ -305,7 +306,7 @@ on any terms and conditions that the panel justice may determine.
 **Rule 7.1 -** A notice of appeal or notice of application for leave to appeal must be served on each of the respondents:
 - **(a)** by serving the respondent personally;
 - **(b)** by serving the respondent’s solicitor of record in the court appealed from; or
-- **(c)** by serving the respondent in any other manner directed by a panel justice.
+- **(c)** by serving the respondent in any other manner directed by a panel judge.
 
 **Rule 7.2 -** A notice of cross appeal must be served:
 - **(a)** on the appellant by serving it on the solicitor who filed the notice of appeal; and
@@ -313,7 +314,7 @@ on any terms and conditions that the panel justice may determine.
 
 ### Hearings by Teleconference
 
-**Rule 7.3 -** The court or a panel justice may hear an application or hold a prehearing conference or hearing by teleconference if he or she considers it appropriate.
+**Rule 7.3 -** The court or a panel judge may hear an application or hold a prehearing conference or hearing by teleconference if he or she considers it appropriate.
 
 ### Settlements or Abandonments
 
@@ -323,13 +324,13 @@ on any terms and conditions that the panel justice may determine.
 
 ### Correction of Orders
 
-**Rule 7.5 -** At any time, the court or a panel justice may:
+**Rule 7.5 -** At any time, the court or a panel judge may:
 - **(a)** correct an error in an order that arose from a clerical mistake or from any other accidental slip or omission; or
 - **(b)** amend an order to provide for any matter that should have been but was not adjudicated.
 
 ### Modification of Time Limits
 
-**Rule 7.6 -** Nothing in these rules affects the ability of the court or a panel justice to extend or shorten any time provided for in these rules.
+**Rule 7.6 -** Nothing in these rules affects the ability of the court or a panel judge to extend or shorten any time provided for in these rules.
 
 ### Documents for Use in Court
 
@@ -341,13 +342,13 @@ on any terms and conditions that the panel justice may determine.
 
 ### Quorum
 
-**Rule 7.9 -** Three justices constitute a quorum of the court; a panel may not be formed without quorum, nor shall an appeal be heard without it. 
+**Rule 7.9 -** Three judges constitute a quorum of the court; a panel may not be formed without quorum, nor shall an appeal be heard without it. 
 
 ### Stay of Proceeding
 
-**Rule 7.10 -** Unless otherwise stipulated by these rules, a panel justice may, on terms the panel justice considers appropriate, order that all or part of the proceedings, including execution, in the cause or matter from which the appeal has been taken are stayed in whole or in part.
+**Rule 7.10 -** Unless otherwise stipulated by these rules, a panel judge may, on terms the panel judge considers appropriate, order that all or part of the proceedings, including execution, in the cause or matter from which the appeal has been taken are stayed in whole or in part.
 
-**Rule 7.11 -** Unless otherwise stipulated by these rules, after an appeal has been decided, a panel justice may, on terms the panel justice considers appropriate, order that all or part of the proceedings, including execution, in the cause or matter from which the appeal was taken are stayed and the panel justice may make any other order to preserve the rights of the parties pending further proceedings.
+**Rule 7.11 -** Unless otherwise stipulated by these rules, after an appeal has been decided, a panel judge may, on terms the panel judge considers appropriate, order that all or part of the proceedings, including execution, in the cause or matter from which the appeal was taken are stayed and the panel judge may make any other order to preserve the rights of the parties pending further proceedings.
 
 **Rule 7.12 -** A panel may dismiss as abandoned the appeal of an appellant who fails to comply with an order made under Rule 7.10.
 
@@ -355,7 +356,7 @@ on any terms and conditions that the panel justice may determine.
 
 **Rule 7.13 -** An appeal is not defeated by an irregularity or preliminary procedural objection.
 
-**Rule 7.14 -** If an irregularity or procedural error has occurred, a panel justice or the court may order that the appeal be heard and may impose conditions, including the granting of an adjournment and the payment of costs, that the panel justice or the court considers appropriate.
+**Rule 7.14 -** If an irregularity or procedural error has occurred, a panel judge or the court may order that the appeal be heard and may impose conditions, including the granting of an adjournment and the payment of costs, that the panel judge or the court considers appropriate.
 
 ### Limiting Argument
 
@@ -377,7 +378,7 @@ on any terms and conditions that the panel justice may determine.
 
 ### Vexatious Litigator Proceedings
 
-**Rule 7.18 -** If, on the application of any person, a panel justice is satisfied that a person has habitually, persistently and without reasonable cause commenced vexatious proceedings in the court, the panel justice may, after hearing that person or giving that person an opportunity to be heard, order that proceedings must not be brought or commenced in the court by that person without leave of a panel justice.
+**Rule 7.18 -** If, on the application of any person, a panel judge is satisfied that a person has habitually, persistently and without reasonable cause commenced vexatious proceedings in the court, the panel judge may, after hearing that person or giving that person an opportunity to be heard, order that proceedings must not be brought or commenced in the court by that person without leave of a panel judge.
 
 ---
 
