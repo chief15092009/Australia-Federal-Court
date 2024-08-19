@@ -1,10 +1,30 @@
 ## Local Administrative Rules of Court
 
-### Court Policy 2024-01
+### Court Policy 2021-01
+
+In an expungement matter, the applicant or their designee must obtain a digital report of their criminal record or a copy thereof as follows
+
+- The digital report must contain applicant's entire criminal record, including all arrests and citations;
+- The digital report must be dated; and
+- The digital report must include the date and reason of the most recent arrest or citation.
+
+The petitioner shall be allocated 72 hours from the filing of their petition to submit these materials with the Court. The Court may grant extentions to this with good reason.
+
+### Court Policy 2022-01
 
 In an extraordinary circumstance, the court may allow the selection as a counselor, one who is not an attorney at law, if the proposed counselor and the party agrees.
 
-### Court Policy 2024-02 
+### Court Policy 2022-02
+
+In the Provincial Court of British Columbia, a neutral citation shall be assigned to each case as follows
+```
+Party v. Party, BCPC #
+                     ^Number counting up from 1
+```
+
+[Administrative revision, February 7, 2024]
+
+### Court Policy 2022-03 
 
 Every Court and judge, and every person having, by law or consent of parties, authority to hear and receive evidence, has power to administer the following oath to every witness who is legally called to give evidence before that Court, judge or person: `I swear that the evidence to be given by me shall be the truth, the whole truth and nothing but the truth, so help me God.`
 
@@ -12,15 +32,21 @@ A witness may, instead of taking an oath, make the following solemn affirmation:
 
 Where a witness makes a solemn affirmation, his evidence shall be taken and have the same effect as if taken under oath.
 
-### Court Policy 2024-03 
+### Court Policy 2022-04 
 
-The Appellate Division shall hear cases under its jurisdiction in panels of seven, five, or three judges, whichever largest is possible, comprised of the Chief Judge and other judges who shall not have been the trial judge. Once a panel is formed, the panel may vote, by a simple majority, to hear or not hear such a case. All decisions reached regarding the case must be agreed upon by at least a majority of panel judges. The panel shall be dissolved once all matters have finally been disposed of.
+The Appellate Division shall hear cases under its jurisdiction in panels of seven, five, or three judges, whichever largest is possible, comprised of the Chief Judge and Associate Chief Judge and other judges who shall not have been the trial judge. Once a panel is formed, the panel may vote, by a simple majority, to hear or not hear such a case. All decisions reached regarding the case must be agreed upon by at least a majority of panel judges. The panel shall be dissolved once all matters have finally been disposed of.
 
-### Court Policy 2024-04
+### Court Policy 2022-05
+
+~~Information taken from the [Vancouver Database](https://khizzer123.github.io/vancouver-database/) shall have the same effect as if it were taken from the Queen's Printer and is admissable in all matters before this court.~~
+
+[Administrative revision, February 7, 2024]
+
+### Court Policy 2022-06
 
 All persons seeking to file a claim under the tort of right to challenge disciplinary action must name, as defendants, only persons involved in the alleged breach of employee rights. Filings submitted with a government agency or a subsidiary of a government agency shall be considered to have been improperly filed.
 
-### Court Policy 2024-05
+### Court Policy 2022-07
 
 Except when an exception is allowed with good reason or by other means or leave, all parties shall be confined to the following limitations as provided in the table below. Note that when a party is subject to two or more limitations, he is entitled to choose which one to be subjected to; but the presiding judge may choose to impose any other limitation if he sees fit; but in any case a party shall only be subject to one limitation for any allocation.
 
@@ -35,7 +61,7 @@ Except when an exception is allowed with good reason or by other means or leave,
 | Motion argument | 30 | 3000 | N/A |
 | Motion rebuttal | 30 | 3000 | N/A |
 
-### Court Policy 2024-06
+### Court Policy 2022-08
 
 **Limitation** <br>
 - No person shall file a claim to this court that substantially alleges that moderation action taken against that person has infringed upon that person's legal rights. 
@@ -45,7 +71,7 @@ Except when an exception is allowed with good reason or by other means or leave,
 - A party may apply to dismiss any claims that rely substantially on the allegation that moderation action was taken against that person, under this policy. 
 - If the court is satisfied that a party's issue for trial with respect to a claim relies substantially on the allegation that moderation action was taken against that person, the court must pronounce judgement or dismiss that claim accordingly.
 
-### Court Policy 2024-07
+### Court Policy 2023-01
 
 Masters are responsible for judicial, quasi-judicial and judicial administration matters; liaison with court administrators, members of the Bar and public; and procedural direction to Court registry staff. 
 
@@ -61,10 +87,10 @@ A Master has the same jurisdiction under any enactment or the Rules of Court as 
 
 A Master has all the jurisdiction of a Registrar of the Court, and in addition to his or her primary function can also preside at and conduct registrars hearings, inquiries, accountings, assessments, review of costs, and other matters imposed by statute or the Rules of Court upon a Registrar of the Court, or referred by a Judge or other Master of the Court.
 
-### Court Policy 2024-08
+### Court Policy 2023-02
 
 Warrants, whether they be a search or an arrest warrant shall last a period of sixty (60) days from the day that they are issued.
 
 ---
 
-**REVISED AUGUST 14, 2024**
+**REVISED AUGUST 19, 2024**
