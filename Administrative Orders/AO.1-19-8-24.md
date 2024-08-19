@@ -10,7 +10,7 @@ Courtroom Clerk     None                                N/A
 Courtroom Bailiff   British Columbia Sheriff Service    N/A
 ```
 
-**Order 1 - Suspension of Quorum Requisites:** Unless otherwise orderd herein, the following rules of the court are suspended, as listed in Schedule A.
+**Order 1 - Suspension of Quorum Requisites:** Unless otherwise ordered herein, the following rules of the court are suspended, as listed in Schedule A.
 
 **Schedule A**
 
