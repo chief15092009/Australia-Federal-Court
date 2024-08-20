@@ -9,7 +9,7 @@
 
 APPLICATION:
 <p align="center"><b>		IIIKYLER_RBLX			</b>
-<p align="right">		PETITIONER
+<p align="right">		APPLICANT
 
 ---
 	
@@ -32,7 +32,7 @@ Date of Judgment: 20.08.2024
 
 **INTRODUCTION**
 
-[1] The Petitioner, iiiKylerLaw, brought an application before this court seeking to set aside a warrant issued against them under the case reference AW20240806BCPC37-1.
+[1] The Applicant, iiiKylerLaw, brought an application before this court seeking to set aside a warrant issued against them under the case reference AW20240806BCPC37-1.
 
 **REASONS FOR RULING**
 
