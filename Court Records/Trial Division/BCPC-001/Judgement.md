@@ -36,7 +36,7 @@ Date of Judgment: 20.08.2024
 
 **REASONS FOR RULING**
 
-[2] The Petitioner’s Counsel presented arguments in their statement of facts, detailing the reasons why the warrant should be quashed, including the assertion that the Petitioner was bound by a Non-Disclosure Agreement (NDA) with the Vancouver Fire and Rescue Service. The Petitioner’s Counsel claimed that this NDA justified the Petitioner’s actions of withholding information and refusing to answer the question under which the disobedience of the court order was found.
+[2] "The Petitioner's Cousel presented arguments within their introduction, detailing the reasons why the warrant should be set aside, including the assertion that the Petitioner was bound by a Non-Disclosure Agreement (NDA) with the Vancouver Fire and Rescue Service. The Petitioner’s Counsel claimed that this NDA justified the Petitioner’s actions of withholding information and refusing to answer the question under which the disobedience of the court order was found.
 
 [3] While the court acknowledges the Petitioner’s legal obligations under the NDA, the court also recognizes its duty to ensure that the administration of justice is not compromised. The court carefully weighed the Petitioner’s contractual obligations against the necessity of full disclosure in legal proceedings.
 
