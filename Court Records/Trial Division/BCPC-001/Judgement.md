@@ -1,7 +1,5 @@
 	Citation:       in re iiiKyler_RBLX
                 	2024 BCPC 001
-	Date:		20240820
-	Registry:	Vancouver, British Columbia
 
 <p align="center"><b><i>
 				IN THE PROVINCIAL COURT OF BRITISH COLUMBIA
@@ -22,6 +20,14 @@ APPLICATION:
 
 </b>
 
+----
+```
+Counsel for the Petitioner: funkyfan12
+Counsel for the Defendant: N/A
+Place of Hearing: Vancouver, British Columbia.
+Date of Hearing: Unkown
+Date of Judgment: 20.08.2024
+```
 ---
 
 **INTRODUCTION**
@@ -49,5 +55,5 @@ APPLICATION:
 ---
 
 Cheif15092009
-	
-Provincial Court Judge
+
+Associate Chief Judge
