@@ -1,7 +1,7 @@
 	Citation:       in re iiiKyler_RBLX
                 	2024 BCPC 001
 	Date:		20240820
-	Registry:	Vancouver
+	Registry:	Vancouver, British Columbia
 
 <p align="center"><b><i>
 				IN THE PROVINCIAL COURT OF BRITISH COLUMBIA
