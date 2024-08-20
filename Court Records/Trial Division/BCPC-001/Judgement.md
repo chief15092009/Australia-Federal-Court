@@ -23,7 +23,7 @@ APPLICATION:
 ----
 ```
 Counsel for the Petitioner: funkyfan12
-Counsel for the Crown: Funpark22
+Counsel for the Crown: UNCONTESTED
 Place of Hearing: Vancouver, British Columbia.
 Date of Hearing: Unknown
 Date of Judgment: 20.08.2024
