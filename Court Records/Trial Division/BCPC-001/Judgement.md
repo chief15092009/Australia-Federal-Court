@@ -25,7 +25,7 @@ APPLICATION:
 Counsel for the Petitioner: funkyfan12
 Counsel for the Defendant: N/A
 Place of Hearing: Vancouver, British Columbia.
-Date of Hearing: Unkown
+Date of Hearing: Unknown
 Date of Judgment: 20.08.2024
 ```
 ---
